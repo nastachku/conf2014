@@ -1,9 +1,6 @@
-conf2014
-========
-
 # Доклады конференции nastachku.ru
 
-Попробуем новый формат, честно стыренный с https://github.com/rubyaustralia/rubyconfau-2014-cfp.
+Попробуем новый формат для докладов технического и менеджерского потока, честно стыренный с https://github.com/rubyaustralia/rubyconfau-2014-cfp.
 
 ## Как добавить
 
